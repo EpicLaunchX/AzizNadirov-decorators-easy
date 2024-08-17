@@ -1,8 +1,9 @@
-from dataclasses import dataclass 
+from dataclasses import dataclass
+
 
 @dataclass
 class Movie:
-    """ movie class """
+    """movie class"""
+
     name: str
     customer_age: str
-
