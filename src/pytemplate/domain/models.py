@@ -6,4 +6,4 @@ class Movie:
     """movie class"""
 
     name: str
-    customer_age: str
+    customer_age: int
